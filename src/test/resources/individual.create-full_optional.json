@@ -1,0 +1,56 @@
+{
+  "data": {
+    "class": "individual",
+    "person_id": "AclCoreUsuario000317",
+    "individual": {
+      "name": "Retirada Evidencia Review",
+      "user_id": "11112332344",
+      "social_name": "Astro",
+      "gender": "Masculino",
+      "cpf": "55478003093",
+      "email": "aclcoreeventos2@gmail.com",
+      "mothers_name": "Fulana de Tal",
+      "fathers_name": "Fulano de Tal",
+      "occupation": 1,
+      "scholarship": "Ensino Médio",
+      "marital_status": "Solteiro(a)",
+      "significant_other": "dedeed",
+      "birthday": "1990-05-08",
+      "home_state": "São Paulo",
+      "home_country": "Brasil",
+      "average_income": 22222,
+      "net_worth": 11111,
+      "home_town": "dede",
+      "politically_exposed_person": true,
+      "foreign_residence": true,
+      "brazilian_tax_payer": true,
+      "address": {
+        "address_id": 9256,
+        "type": "Rua",
+        "zip_code": "06447270",
+        "street": "Mauá",
+        "number": "3",
+        "complement": "Casa",
+        "reference_point": "Supermercado Paulista",
+        "neighborhood": "Jardim Paulista",
+        "city": "Barueri",
+        "state": "São Paulo",
+        "country": "Brasil",
+        "primary": true
+      },
+      "phone": {
+        "phone_id": 1234,
+        "type": "Celular",
+        "area_code": "11",
+        "country_code": "55",
+        "number": "980809090",
+        "primary": true
+      },
+      "person_id": "AclCoreUsuario000317",
+      "status": "Aprovada",
+      "type": ""
+    }
+  },
+  "message_type": "individual",
+  "correlation_id": "001-individual-test"
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "class": "individual",
+    "person_id": "AclCoreUsuario000317",
+    "individual": {
+      "name": "Retirada Evidencia Review",
+      "cpf": "55478003093",
+      "email": "aclcoreeventos2@gmail.com",
+      "politically_exposed_person": true,
+      "phone": {
+        "phone_id": 1234,
+        "type": "Celular",
+        "area_code": "11",
+        "country_code": "55",
+        "number": "980809090",
+        "primary": true
+      },
+      "person_id": "AclCoreUsuario000317",
+      "status": "Aprovada"
+    }
+  },
+  "message_type": "individual",
+  "correlation_id": "001-individual-test"
+}

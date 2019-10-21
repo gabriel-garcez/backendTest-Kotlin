@@ -1,0 +1,38 @@
+{
+  "data": {
+    "class": "individual",
+    "person_id": "AclCoreUsuario000317",
+    "individual": {
+      "cpf": "55478003093",
+      "email": "aclcoreeventos2@gmail.com",
+      "politically_exposed_person": true,
+      "person_id": "AclCoreUsuario000317",
+      "status": "Aprovada",
+      "address": {
+        "address_id": 9256,
+        "type": "Rua",
+        "zip_code": "06447270",
+        "street": "Mauá",
+        "number": "3",
+        "complement": "Casa",
+        "reference_point": "Supermercado Paulista",
+        "neighborhood": "Jardim Paulista",
+        "city": "Barueri",
+        "state": "São Paulo",
+        "country": "Brasil",
+        "primary": true
+      },
+      "phone": {
+        "phone_id": 1234,
+        "type": "Celular",
+        "area_code": "11",
+        "country_code": "55",
+        "number": "980809090",
+        "primary": true
+      },
+      "name": "Retirada Evidencia Review"
+    }
+  },
+  "message_type": "individual",
+  "correlation_id": "001-individual-test"
+}

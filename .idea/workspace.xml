@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4db454d7-45d9-46db-a036-eb893996ce64" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QL01TBRkx999EouO8fMVxcHXzF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="healthchek" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="healthchek" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="healthchek" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aluga.com\IJProjects\EventsProject\src\test\kotlin\healthcheck" />
+      <recent name="C:\Users\Aluga.com\IJProjects\EventsProject\src\test\kotlin\healthchek" />
+      <recent name="C:\Users\Aluga.com\IJProjects\SangueDeJesusTemPoder\src\test\kotlin\healthchek" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aluga.com\IJProjects\EventsProject\src\test\kotlin\EventStatus" />
+      <recent name="C:\Users\Aluga.com\IJProjects\EventsProject\src\test\kotlin" />
+      <recent name="C:\Users\Aluga.com\IJProjects\EventsProject\src\test\kotlin\InputEvents\required" />
+      <recent name="C:\Users\Aluga.com\IJProjects\EventsProject\src\test\resources" />
+      <recent name="C:\Users\Aluga.com\IJProjects\SangueDeJesusTemPoder\src\test\kotlin\InputEvents\optional" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.InputEventOnlyRequired">
+    <configuration name="Healthcheck.getHatcheck" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;healthcheck.Healthcheck.getHatcheck&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="InputEventOnlyRequired" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;InputEventOnlyRequired&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'InputEvents.header'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;InputEvents.header.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'healthcheck'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;healthcheck.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="healthcheck" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;healthcheck.healthcheck&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.InputEventOnlyRequired" />
+        <item itemvalue="Gradle.Healthcheck.getHatcheck" />
+        <item itemvalue="Gradle.healthcheck" />
+        <item itemvalue="Gradle.Tests in 'InputEvents.header'" />
+        <item itemvalue="Gradle.Tests in 'healthcheck'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db454d7-45d9-46db-a036-eb893996ce64" name="Default Changelist" comment="" />
+      <created>1567534353733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567534353733</updated>
+      <workItem from="1567534357828" duration="12060000" />
+      <workItem from="1567704664275" duration="8855000" />
+      <workItem from="1568038616345" duration="7159000" />
+      <workItem from="1568058141427" duration="1130000" />
+      <workItem from="1568063029838" duration="19685000" />
+      <workItem from="1568299398174" duration="2260000" />
+      <workItem from="1568305889773" duration="1530000" />
+      <workItem from="1568307458529" duration="928000" />
+      <workItem from="1568308415797" duration="2027000" />
+      <workItem from="1568311947837" duration="2247000" />
+      <workItem from="1568385854386" duration="127000" />
+      <workItem from="1568386131133" duration="1336000" />
+      <workItem from="1568399006427" duration="685000" />
+      <workItem from="1568401163165" duration="1887000" />
+      <workItem from="1568746535553" duration="1854000" />
+      <workItem from="1568752888723" duration="598000" />
+      <workItem from="1568754722006" duration="598000" />
+      <workItem from="1568825108988" duration="598000" />
+      <workItem from="1568915262686" duration="971000" />
+      <workItem from="1569004301587" duration="720000" />
+      <workItem from="1569006153792" duration="1837000" />
+      <workItem from="1569349945276" duration="1251000" />
+      <workItem from="1569435845284" duration="1721000" />
+      <workItem from="1569437644990" duration="1239000" />
+      <workItem from="1569597203838" duration="1044000" />
+      <workItem from="1569602308454" duration="602000" />
+      <workItem from="1569608321870" duration="1199000" />
+      <workItem from="1569610878080" duration="600000" />
+      <workItem from="1570227043466" duration="599000" />
+      <workItem from="1570559661084" duration="608000" />
+      <workItem from="1570635343763" duration="1000" />
+      <workItem from="1570642329067" duration="806000" />
+      <workItem from="1570644146913" duration="626000" />
+      <workItem from="1570718592975" duration="1199000" />
+      <workItem from="1570738508134" duration="1355000" />
+      <workItem from="1571078301369" duration="1056000" />
+      <workItem from="1571155602422" duration="594000" />
+      <workItem from="1571162441046" duration="1194000" />
+      <workItem from="1571168295074" duration="806000" />
+      <workItem from="1571238075473" duration="592000" />
+      <workItem from="1571247233343" duration="935000" />
+      <workItem from="1571337437708" duration="2573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
